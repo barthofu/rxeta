@@ -11,7 +11,9 @@ After instantiating the store, you can either set, update or get states values, 
 
 ### Requirements
 
-- [NodeJS](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/) `>= 14.x.x`
+- [npm](https://npmjs.com/) `>= 8.x.x`
+
 
 ### Installing
 
@@ -23,17 +25,13 @@ or
 yarn add rxeta
 ```
 
-### Features
+## Features
 
-🌐 Centralized state management
-
-🛡 Protected state (can't be mutated directly)
-
-♻ State mutation using setters or updaters
-
-💌 Subscribe method to watch and react to desired state changes
-
-💙 Fully typed thanks to Typescript 
+- 🌐 Centralized state management
+- 🛡 Protected state (can't be mutated directly)
+- ♻ State mutation using setters or updaters
+- 💌 Subscribe method to watch and react to desired state changes
+- 💙 Fully typed thanks to Typescript 
 
 ## Usage
 
