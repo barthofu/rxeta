@@ -1,6 +1,6 @@
 {
   "name": "rxeta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reactive state management written in TypeScript with a minimal API and full power of RxJS",
   "main": "./build/Store.js",
   "types": "./build/Store.d.ts",
